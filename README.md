@@ -80,7 +80,7 @@ yolov8.ipynb
 
 ![example2](https://github.com/martinjack/detect_money_uk/blob/master/examples/example1.jpg?raw=true)
 
-![example3](https://github.com/martinjack/detect_money_uk/blob/master/examples/example2.jpeg?raw=true)
+![example3](https://github.com/martinjack/detect_money_uk/blob/master/examples/example2.jpg?raw=true)
 
 ![example4](https://github.com/martinjack/detect_money_uk/blob/master/examples/example3.png?raw=true)
 
